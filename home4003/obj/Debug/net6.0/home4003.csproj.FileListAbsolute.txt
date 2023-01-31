@@ -1,0 +1,15 @@
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\home4003.csproj.AssemblyReference.cache
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\home4003.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\home4003.AssemblyInfoInputs.cache
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\home4003.AssemblyInfo.cs
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\home4003.csproj.CoreCompileInputs.cache
+E:\учеба\С#\C#homework\home4003\bin\Debug\net6.0\home4003.exe
+E:\учеба\С#\C#homework\home4003\bin\Debug\net6.0\home4003.deps.json
+E:\учеба\С#\C#homework\home4003\bin\Debug\net6.0\home4003.runtimeconfig.json
+E:\учеба\С#\C#homework\home4003\bin\Debug\net6.0\home4003.dll
+E:\учеба\С#\C#homework\home4003\bin\Debug\net6.0\home4003.pdb
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\home4003.dll
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\refint\home4003.dll
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\home4003.pdb
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\home4003.genruntimeconfig.cache
+E:\учеба\С#\C#homework\home4003\obj\Debug\net6.0\ref\home4003.dll
