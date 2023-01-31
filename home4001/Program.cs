@@ -2,7 +2,7 @@
 3, 5 -> 243 (3⁵)
 2, 4 -> 16
 */
-int GetNumber(string message)
+int GetNumberA(string message)
 {
 int result = 0;
 
@@ -19,7 +19,27 @@ else
 Console.WriteLine("Ввели не число. Повторите ввод");
 }
 }
-return Math.Abs(result);
+return result;
+}
+
+int GetNumberB(string message)
+{
+int result = 0;
+
+while (true)
+{
+Console.WriteLine(message);
+
+if (int.TryParse(Console.ReadLine(), out result) && result >= 0)
+{
+break;
+}
+else
+{
+Console.WriteLine("Ввели не число или число не натуральное. Повторите ввод");
+}
+}
+return result;
 }
 
 int DegreeNum(int a, int b) {
@@ -27,8 +47,8 @@ int DegreeNum(int a, int b) {
         return res;
     }
 
-int a = GetNumber("Введите число a");
-int b = GetNumber("Введите число b");
+int a = GetNumberA("Введите число a");
+int b = GetNumberB("Введите число b");
 
 int result = DegreeNum(a, b);
 Console.WriteLine(result);
