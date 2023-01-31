@@ -4,24 +4,20 @@
 9012 -> 12
 */
 
-int GetNumber(string message)
-{
-int result = 0;
+int GetNumber(string message){
+    int result = 0;
 
-while (true)
-{
-Console.WriteLine(message);
+        while (true) {
+            Console.WriteLine(message);
 
-if (int.TryParse(Console.ReadLine(), out result))
-{
-break;
-}
-else
-{
-Console.WriteLine("Ввели не число. Повторите ввод");
-}
-}
-return Math.Abs(result);
+            if (int.TryParse(Console.ReadLine(), out result)) {
+                break;
+            }
+            else {
+                Console.WriteLine("Ввели не число. Повторите ввод");
+            }
+        }
+            return Math.Abs(result);
 }
 
 int GetSum(int number) {

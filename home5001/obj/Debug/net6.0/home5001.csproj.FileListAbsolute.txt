@@ -1,0 +1,15 @@
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\home5001.csproj.AssemblyReference.cache
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\home5001.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\home5001.AssemblyInfoInputs.cache
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\home5001.AssemblyInfo.cs
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\home5001.csproj.CoreCompileInputs.cache
+E:\учеба\С#\C#homework\home5001\bin\Debug\net6.0\home5001.exe
+E:\учеба\С#\C#homework\home5001\bin\Debug\net6.0\home5001.deps.json
+E:\учеба\С#\C#homework\home5001\bin\Debug\net6.0\home5001.runtimeconfig.json
+E:\учеба\С#\C#homework\home5001\bin\Debug\net6.0\home5001.dll
+E:\учеба\С#\C#homework\home5001\bin\Debug\net6.0\home5001.pdb
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\home5001.dll
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\refint\home5001.dll
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\home5001.pdb
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\home5001.genruntimeconfig.cache
+E:\учеба\С#\C#homework\home5001\obj\Debug\net6.0\ref\home5001.dll
