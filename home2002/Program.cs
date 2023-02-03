@@ -9,7 +9,7 @@
 Console.WriteLine("Введите любое число");
 string num = Console.ReadLine();
 char[] numbers = num.ToCharArray();
-// int FindThirdNum(int a, int b) {
+
  if (numbers.Length > 2) {
      Console.WriteLine($"третья цифра {num[2]}");
    }
