@@ -1,0 +1,15 @@
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\home6001.csproj.AssemblyReference.cache
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\home6001.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\home6001.AssemblyInfoInputs.cache
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\home6001.AssemblyInfo.cs
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\home6001.csproj.CoreCompileInputs.cache
+E:\учеба\С#\C#homework\home6001\bin\Debug\net6.0\home6001.exe
+E:\учеба\С#\C#homework\home6001\bin\Debug\net6.0\home6001.deps.json
+E:\учеба\С#\C#homework\home6001\bin\Debug\net6.0\home6001.runtimeconfig.json
+E:\учеба\С#\C#homework\home6001\bin\Debug\net6.0\home6001.dll
+E:\учеба\С#\C#homework\home6001\bin\Debug\net6.0\home6001.pdb
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\home6001.dll
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\refint\home6001.dll
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\home6001.pdb
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\home6001.genruntimeconfig.cache
+E:\учеба\С#\C#homework\home6001\obj\Debug\net6.0\ref\home6001.dll
