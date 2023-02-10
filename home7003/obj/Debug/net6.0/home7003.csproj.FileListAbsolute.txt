@@ -1,0 +1,15 @@
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\home7003.csproj.AssemblyReference.cache
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\home7003.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\home7003.AssemblyInfoInputs.cache
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\home7003.AssemblyInfo.cs
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\home7003.csproj.CoreCompileInputs.cache
+E:\учеба\С#\C#homework\home7003\bin\Debug\net6.0\home7003.exe
+E:\учеба\С#\C#homework\home7003\bin\Debug\net6.0\home7003.deps.json
+E:\учеба\С#\C#homework\home7003\bin\Debug\net6.0\home7003.runtimeconfig.json
+E:\учеба\С#\C#homework\home7003\bin\Debug\net6.0\home7003.dll
+E:\учеба\С#\C#homework\home7003\bin\Debug\net6.0\home7003.pdb
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\home7003.dll
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\refint\home7003.dll
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\home7003.pdb
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\home7003.genruntimeconfig.cache
+E:\учеба\С#\C#homework\home7003\obj\Debug\net6.0\ref\home7003.dll
