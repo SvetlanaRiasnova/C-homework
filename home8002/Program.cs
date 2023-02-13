@@ -57,11 +57,11 @@ void FindMinSumRow(int[,] array)
             if (sumRow < minSum)
             {
                 minSum = sumRow;
-                minSumNumberRow = i;
+                minSumNumberRow = i + 1;
             }
             sumRow = 0;
         }
 
     Console.WriteLine();
-    Console.Write($"наименьшая сумма в строке {minSumNumberRow +1} ");
+    Console.Write($"наименьшая сумма в строке {minSumNumberRow} ");
 }
