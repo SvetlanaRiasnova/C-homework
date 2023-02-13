@@ -1,0 +1,15 @@
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\home8004.csproj.AssemblyReference.cache
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\home8004.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\home8004.AssemblyInfoInputs.cache
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\home8004.AssemblyInfo.cs
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\home8004.csproj.CoreCompileInputs.cache
+E:\учеба\С#\C#homework\home8004\bin\Debug\net6.0\home8004.exe
+E:\учеба\С#\C#homework\home8004\bin\Debug\net6.0\home8004.deps.json
+E:\учеба\С#\C#homework\home8004\bin\Debug\net6.0\home8004.runtimeconfig.json
+E:\учеба\С#\C#homework\home8004\bin\Debug\net6.0\home8004.dll
+E:\учеба\С#\C#homework\home8004\bin\Debug\net6.0\home8004.pdb
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\home8004.dll
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\refint\home8004.dll
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\home8004.pdb
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\home8004.genruntimeconfig.cache
+E:\учеба\С#\C#homework\home8004\obj\Debug\net6.0\ref\home8004.dll
